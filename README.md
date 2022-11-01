@@ -1,10 +1,6 @@
 
 ![exmpl4](https://user-images.githubusercontent.com/99626693/197962041-b49aaf65-201d-48a2-b46c-701a4bfa165d.JPG)
 
-React Bootstrap : https://react-bootstrap.netlify.app/
-
-
-Aos : https://michalsnik.github.io/aos/
 
 # Getting Started with Create React App
 
